@@ -1,0 +1,23 @@
+svg {
+    border:1px solid gray;
+    border-radius:10px;
+    height:600px;
+    width:700px;
+    margin:5px;
+  }
+
+.tooltip-left,.tooltip-right
+{
+  opacity: 0;
+  position: absolute;
+  padding: 4px 16px;
+  border: solid 1px;
+  border-radius: 5px;
+  background-color: white;
+  line-height: 5px;
+
+}
+
+h1,h2, h3 {
+  text-align:center;
+}
